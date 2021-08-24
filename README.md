@@ -1,1 +1,1 @@
-# easing-functions-in-python
+# Easing Functions In Python
